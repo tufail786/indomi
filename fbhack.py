@@ -335,13 +335,13 @@ def menu():
            {\rmX\rh}v{\rmX\rh}|\rcPRX\rh|==========.
              [']  /'|'\           \\
                  /  \  \           '
-                 \_  \_ \_    \rk*\rhbudiman pardede
+                 \_  \_ \_    \rk*\tufail
 \rk###########################################################
-#             \rb*MULTY BRUTEFORCE FACEBOOK*\rk                 #
-# \rhBY\rp                                              bud1man \rk#
-# \rhGroup FB\rp         https://m.facebook.com/groups/und3f1n3 \rk#
-# \rhGitHub\rp                      https://github.com/und3f1n3 \rk#
-#       \rmINDONESIA TOOLS hack, if you want more, visit groups \rk#
+#             \rb*MULTY BRUTEFORCE FACEBOOK BY TUFAIL*\by tufail                 #
+# \rhBY\rp                                              bud1man \tufail#
+# \rhGroup FB\rp      https://www.facebook.com/tufail.gulzar.16 \tufail#
+# \rhGitHub\rp                      https://github.com/und3f1n3 \tufail#
+#       \rm by tufail, if you want more, visit groups \tufail#
 ###########################################################''')
 	tampil('''\rk%s\n\rc1 \rhTake id from group\n\rc2 \rhTake id from list my friends\n\rc3 \rmEXIT\n\rk%s'''%('#'*20,'#'*20))
 	i = inputM('[?]PILIH',[1,2,3])
